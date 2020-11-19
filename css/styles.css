@@ -1,0 +1,195 @@
+footer {
+  background-color: #FF70A0;
+  width: 100%;
+}
+
+footer p {
+  margin: 0;
+  font-size: 12px;
+  padding: 30px 100px;
+  text-align: left;
+  line-height: 1px;
+}
+
+form {
+  text-align: left;
+  padding: 10px;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #2e2e2e;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.about {
+  padding-right: 20px;
+}
+
+.contact-form img {
+  width: 205px;
+  height: 129px;
+  margin-bottom: 10px;
+}
+
+.contact-page {
+  background-color: #FFF;
+}
+
+.copyright {
+  padding-top: 20px;
+}
+
+.enrol-now-btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #2e2e2e;
+  font-size: 20px;
+  background: #9AE866;
+  padding: 3px 10px 3px 10px;
+  text-decoration: none;
+  margin: 10px 0;
+}
+/*-- CSS Button Generator 2020, CSS Button Generator, CSS Button Generator, viewed 20 August 2020, <https://css3buttongenerator.com/>. */
+
+.enrol-now-btn:hover {
+  background: #c8f79c;
+  text-decoration: none;
+}
+/*-- CSS Button Generator 2020, CSS Button Generator, CSS Button Generator, viewed 20 August 2020, <https://css3buttongenerator.com/>. */
+
+.floating-box {
+  background-color: white;
+  background-color: rgba(255, 255, 255, 0.8);
+  top: 40% !important;
+  padding-bottom: 10px !important;
+}
+
+.floating-box p {
+  margin: 0;
+  padding: 0 20px;
+  font-size: 3vw;
+}
+
+.kids-playing {
+  height: 300px;
+  width: 400px;
+}
+
+.learn-more {
+  position: relative;
+}
+
+.learn-more-btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #2e2e2e;
+  font-size: 20px;
+  background: #9AE866;
+  padding: 3px 10px 3px 10px;
+  text-decoration: none;
+  margin: 5px 0;
+}
+/*-- CSS Button Generator 2020, CSS Button Generator, CSS Button Generator, viewed 20 August 2020, <https://css3buttongenerator.com/>. */
+
+.learn-more-btn:hover {
+  background: #c8f79c;
+  text-decoration: none;
+}
+/*-- CSS Button Generator 2020, CSS Button Generator, CSS Button Generator, viewed 20 August 2020, <https://css3buttongenerator.com/>. */
+
+.logo {
+  height: 40px;
+  padding-right: 20px;
+  margin: 5px 0;
+}
+
+.menu-btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #fff;
+  font-size: 20px;
+  padding: 3px 5px 3px 5px;
+  text-decoration: none;
+  margin: 10px 0;
+}
+/*-- CSS Button Generator 2020, CSS Button Generator, CSS Button Generator, viewed 29 August 2020, <https://css3buttongenerator.com/>. */
+
+.menu-btn:hover {
+  background: #FFD770;
+  text-decoration: none;
+}
+/*-- CSS Button Generator 2020, CSS Button Generator, CSS Button Generator, viewed 29 August 2020, <https://css3buttongenerator.com/>. */
+
+.nav-bar {
+  padding-left: 8%;
+  padding-right: 8%;
+}
+
+.profile-picture {
+  width: 383.984px;
+  height: 522.062px;
+  position: relative;
+}
+
+.services {
+  background-color: #FFD770;
+}
+
+.services-left {
+  padding-top: 30px;
+}
+
+.submit-btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 30px;
+  font-family: Arial;
+  color: #2e2e2e;
+  font-size: 20px;
+  background: #9AE866;
+  padding: 3px 20px 3px 20px;
+  text-decoration: none;
+  margin: 10px 0;
+  border: 0;
+  margin-top: 20px;
+}
+
+.submit-btn:hover {
+  background: #c8f79c;
+  text-decoration: none;
+}
+
+
+.welcome {
+  background-color: #B0A7E8;
+}
+
+.w3-bar {
+  background-color: #FF70A0;
+  top: 0;
+}
+
+.w3-input {
+  margin-bottom: 10px;
+}
+
+.w3-third p {
+  background-color: #FFD770;
+  background-color: rgba(255, 241, 204, 0.5);
+  border-radius: 8px;
+  padding: 5px;
+}
